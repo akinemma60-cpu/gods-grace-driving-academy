@@ -28,7 +28,6 @@ export const images = {
   automatic: '/images/automatic.jpeg',
   instructor: '/images/instructor%20traing%20a%20student.webp',
   practice: '/images/inside%20a%20car%20during%20drivers%20practice.webp',
-  testimonials: ['/images/testimonial1.avif', '/images/testimonial2.avif', '/images/testimonial3.webp'],
   vehicle: '/images/car%20in%20motion.avif',
   property: '/images/real-estate.jpg',
 };
